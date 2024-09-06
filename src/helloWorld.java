@@ -34,12 +34,12 @@ public class helloWorld {
         System.out.println("Hi, my name is " + myNameIs + ", I am " + myAgeIs + " years old. ");
         
         //Hello world - print Mom's variables
-        System.out.println("\nMy mom's name is " + momNameIs + ", she is " + momAgeIs + " years old. ");
+        System.out.println("My mom's name is " + momNameIs + ", she is " + momAgeIs + " years old. ");
 
         //Hello world - print Dad's variables
-        System.out.println("\nMy dad's name is " + dadNameIs + ", he is " + dadAgeIs + " years old.");
+        System.out.println("My dad's name is " + dadNameIs + ", he is " + dadAgeIs + " years old.");
 
         //Hello world - print Sister's variables
-        System.out.println("\nMy sister's name is " + sisterNameIs + ", she is " + sisterAgeIs + " years old.");
+        System.out.println("My sister's name is " + sisterNameIs + ", she is " + sisterAgeIs + " years old.");
     }
 }
